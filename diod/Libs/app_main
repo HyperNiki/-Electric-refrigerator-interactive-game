@@ -1,0 +1,6 @@
+#include "app_main"
+#include "ARGB.h"
+void main_app(void)
+{
+	ARGB.Init();
+}
