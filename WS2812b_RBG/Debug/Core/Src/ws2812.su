@@ -1,0 +1,9 @@
+../Core/Src/ws2812.c:10:6:ws2812_init	16	static
+../Core/Src/ws2812.c:17:6:ws2812_pixel_rgb_to_buf_dma	24	static
+../Core/Src/ws2812.c:46:6:ws2812_prepareValue	16	static
+../Core/Src/ws2812.c:57:6:ws2812_setValue	24	static
+../Core/Src/ws2812.c:69:6:ws2812_light	8	static
+../Core/Src/ws2812.c:75:6:ws2812_test01	48	static
+../Core/Src/ws2812.c:93:6:ws2812_test02	24	static
+../Core/Src/ws2812.c:122:6:ws2812_test03	24	static
+../Core/Src/ws2812.c:167:6:ws2812_test04	16	static
