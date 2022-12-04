@@ -1,0 +1,4 @@
+../Core/Src/motor.c:3:6:DriveMotor_1	24	static
+../Core/Src/motor.c:15:6:DriveMotor_2	24	static
+../Core/Src/motor.c:27:6:DriveMotor_X	24	static
+../Core/Src/motor.c:42:6:DriveMotor_Y	24	static
